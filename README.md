@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AsrarJarvis
+- 👋 Hi, I’m @Asrar
 - 👀 I’m interested in Sciense and technologies 
-- 🌱 I’m currently learning Node and Maching Learning
+- 🌱 I’m currently working as SDE Front End 
 - 📫 One can reach me through asrarjarvish@gmail.com
 
 <!---
